@@ -1,3 +1,4 @@
+ SWYNEX-Exploratory-Data-Analysis
 Task 2 — Exploratory Data Analysis | Data Science Internship at SWYNEX Technologies
 
 📊 Dataset
